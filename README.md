@@ -12,7 +12,7 @@ cd "/Users/zhora_ishunin/Documents/Codex/2026-10-13/referenced-chatgpt-conversat
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
-python main.py
+python the_snake.py
 ```
 
 Управление: стрелки. Чтобы закрыть игру, нажмите `Esc` или закройте окно.
